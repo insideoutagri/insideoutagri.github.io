@@ -1,4 +1,4 @@
-header {
+body {
 	background: #181818;
 }
 
@@ -10,10 +10,9 @@ header {
 }
 
 article {
-	height: 500px;
+	height: 100px;
 }
 
 footer {
-	background: #181818;
 	height: 300px;
 }
